@@ -8,9 +8,7 @@ comments: true
 
 
 
-##Education
+# Education
 
-
-
-Hello mymy
-
+- University of Pittsburgh, Ph.D.
+- 
