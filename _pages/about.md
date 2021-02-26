@@ -12,5 +12,5 @@ Thank you for coming here. here is my CV
 
 # Education
 
-- University of Pittsburgh, Ph.D. <div style="text-align: right"> your-text-here </div>
-- 
+- University of Pittsburgh, Ph.D. (AUG. 2020 ~)
+- Sungkyunkwan University, M.S ()
